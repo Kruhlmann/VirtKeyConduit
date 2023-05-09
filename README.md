@@ -19,6 +19,12 @@ KEY_B
 KEY_C
 ```
 
+### Piping into virsh send-key
+
+```
+$ vkc Abc us | while read -r key; do printf 'sudo virsh send-key machinename %s\n' "$key"; done | bash - >/dev/null
+```
+
 ## Layouts
 
 *See /usr/share/vck/keyboards for default keyboards*
