@@ -1,0 +1,15 @@
+#!/usr/bin/env sh
+
+set -x
+version="1.0"
+srcdir=$(mktemp -d)
+mkdir -p /var/lib/vck/ /usr/share/vck
+curl -Ls -o /var/lib/vck/vck.jar "https://github.com/Kruhlmann/VirtKeyConduit/releases/download/$version/VirtKeyConduit.jar"
+curl -Ls "https://github.com/Kruhlmann/VirtKeyConduit/archive/refs/tags/$version.tar.gz" | tar -xz -C "$srcdir"
+mv "$srcdir/VirtKeyConduit-$version/keyboards" "/usr/share/vck/keyboards"
+cat > /usr/bin/vck << EOF
+#!/usr/bin/env sh
+exec /usr/bin/java -jar '/var/lib/vkc/vkc.jar' "\$@"
+EOF
+chmod +x /usr/bin/vkc
+echo "Installation complete."

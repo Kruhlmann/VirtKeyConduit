@@ -1,0 +1,98 @@
+<xml>
+  <identifier>us</identifier>
+  <key code="32" value="KEY_SPACE"/>
+  <key code="33" value="KEY_LEFTSHIFT KEY_1"/>
+  <key code="34" value="KEY_LEFTSHIFT KEY_APOSTROPHE"/>
+  <key code="35" value="KEY_LEFTSHIFT KEY_3"/>
+  <key code="36" value="KEY_LEFTSHIFT KEY_4"/>
+  <key code="37" value="KEY_LEFTSHIFT KEY_5"/>
+  <key code="38" value="KEY_LEFTSHIFT KEY_7"/>
+  <key code="39" value="KEY_APOSTROPHE"/>
+  <key code="40" value="KEY_LEFTSHIFT KEY_9"/>
+  <key code="41" value="KEY_LEFTSHIFT KEY_0"/>
+  <key code="42" value="KEY_LEFTSHIFT KEY_8"/>
+  <key code="43" value="KEY_LEFTSHIFT KEY_EQUAL"/>
+  <key code="44" value="KEY_COMMA"/>
+  <key code="45" value="KEY_MINUS"/>
+  <key code="46" value="KEY_DOT"/>
+  <key code="47" value="KEY_SLASH"/>
+  <key code="48" value="KEY_0"/>
+  <key code="49" value="KEY_1"/>
+  <key code="50" value="KEY_2"/>
+  <key code="51" value="KEY_3"/>
+  <key code="52" value="KEY_4"/>
+  <key code="53" value="KEY_5"/>
+  <key code="54" value="KEY_6"/>
+  <key code="55" value="KEY_7"/>
+  <key code="56" value="KEY_8"/>
+  <key code="57" value="KEY_9"/>
+  <key code="58" value="KEY_LEFTSHIFT KEY_SEMICOLON"/>
+  <key code="59" value="KEY_SEMICOLON"/>
+  <key code="60" value="KEY_LEFTSHIFT KEY_COMMA"/>
+  <key code="61" value="KEY_EQUAL"/>
+  <key code="62" value="KEY_LEFTSHIFT KEY_DOT"/>
+  <key code="63" value="KEY_LEFTSHIFT KEY_SLASH"/>
+  <key code="64" value="KEY_LEFTSHIFT KEY_2"/>
+  <key code="65" value="KEY_LEFTSHIFT KEY_A"/>
+  <key code="66" value="KEY_LEFTSHIFT KEY_B"/>
+  <key code="67" value="KEY_LEFTSHIFT KEY_C"/>
+  <key code="68" value="KEY_LEFTSHIFT KEY_D"/>
+  <key code="69" value="KEY_LEFTSHIFT KEY_E"/>
+  <key code="70" value="KEY_LEFTSHIFT KEY_F"/>
+  <key code="71" value="KEY_LEFTSHIFT KEY_G"/>
+  <key code="72" value="KEY_LEFTSHIFT KEY_H"/>
+  <key code="73" value="KEY_LEFTSHIFT KEY_I"/>
+  <key code="74" value="KEY_LEFTSHIFT KEY_J"/>
+  <key code="75" value="KEY_LEFTSHIFT KEY_K"/>
+  <key code="76" value="KEY_LEFTSHIFT KEY_L"/>
+  <key code="77" value="KEY_LEFTSHIFT KEY_M"/>
+  <key code="78" value="KEY_LEFTSHIFT KEY_N"/>
+  <key code="79" value="KEY_LEFTSHIFT KEY_O"/>
+  <key code="80" value="KEY_LEFTSHIFT KEY_P"/>
+  <key code="81" value="KEY_LEFTSHIFT KEY_Q"/>
+  <key code="82" value="KEY_LEFTSHIFT KEY_R"/>
+  <key code="83" value="KEY_LEFTSHIFT KEY_S"/>
+  <key code="84" value="KEY_LEFTSHIFT KEY_T"/>
+  <key code="85" value="KEY_LEFTSHIFT KEY_U"/>
+  <key code="86" value="KEY_LEFTSHIFT KEY_V"/>
+  <key code="87" value="KEY_LEFTSHIFT KEY_W"/>
+  <key code="88" value="KEY_LEFTSHIFT KEY_X"/>
+  <key code="89" value="KEY_LEFTSHIFT KEY_Y"/>
+  <key code="90" value="KEY_LEFTSHIFT KEY_Z"/>
+  <key code="91" value="KEY_LEFTBRACE"/>
+  <key code="92" value="KEY_BACKSLASH"/>
+  <key code="93" value="KEY_RIGHTBRACE"/>
+  <key code="94" value="KEY_LEFTSHIFT KEY_5"/>
+  <key code="95" value="KEY_LEFTSHIFT KEY_MINUS"/>
+  <key code="96" value="KEY_GRAVE"/>
+  <key code="97" value="KEY_A"/>
+  <key code="98" value="KEY_B"/>
+  <key code="99" value="KEY_C"/>
+  <key code="100" value="KEY_D"/>
+  <key code="101" value="KEY_E"/>
+  <key code="102" value="KEY_F"/>
+  <key code="103" value="KEY_G"/>
+  <key code="104" value="KEY_H"/>
+  <key code="105" value="KEY_I"/>
+  <key code="106" value="KEY_J"/>
+  <key code="107" value="KEY_K"/>
+  <key code="108" value="KEY_L"/>
+  <key code="109" value="KEY_M"/>
+  <key code="110" value="KEY_N"/>
+  <key code="111" value="KEY_O"/>
+  <key code="112" value="KEY_P"/>
+  <key code="113" value="KEY_Q"/>
+  <key code="114" value="KEY_R"/>
+  <key code="115" value="KEY_S"/>
+  <key code="116" value="KEY_T"/>
+  <key code="117" value="KEY_U"/>
+  <key code="118" value="KEY_V"/>
+  <key code="119" value="KEY_W"/>
+  <key code="120" value="KEY_X"/>
+  <key code="121" value="KEY_Y"/>
+  <key code="122" value="KEY_Z"/>
+  <key code="123" value="KEY_LEFTSHIFT KEY_LEFTBRACE"/>
+  <key code="124" value="KEY_LEFTSHIFT KEY_BACKSLASH"/>
+  <key code="125" value="KEY_LEFTSHIFT KEY_RIGHTBRACE"/>
+  <key code="126" value="KEY_LEFTSHIFT KEY_GRAVE"/>
+</xml>

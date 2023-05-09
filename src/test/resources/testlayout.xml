@@ -1,0 +1,6 @@
+<xml>
+  <identifier>testlayout</identifier>
+  <key code="65" value="KEY_A"/>
+  <key code="66" value="KEY_B"/>
+  <key code="67" value="KEY_C"/>
+</xml>
