@@ -20,7 +20,7 @@ public class KeyboardLayoutFactory {
           return this.xmlFileToLayout(xmlFile);
         }
 
-        xmlFilename = "/usr/share/vck/keyboards/" + identifier + ".xml";
+        xmlFilename = "/usr/share/vkc/keyboards/" + identifier + ".xml";
         xmlFile = new File(xmlFilename);
         if (xmlFile.exists()) {
           return this.xmlFileToLayout(xmlFile);
